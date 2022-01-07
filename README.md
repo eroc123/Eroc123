@@ -3,7 +3,7 @@ Currently codes in Python
 
 Also trying to learn C++ (although I keep procrastinating)
 
-Oh and also I use arch btw (KDE pog) :)
+Oh and also I use arch btw (with i3 gaps)
 
 https://eroc123.github.io/sus
 
