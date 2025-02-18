@@ -1,9 +1,6 @@
 
-Currently codes in Python
+Currently codes in Python, also learning rust
 
-Also trying to learn C++ (although I keep procrastinating)
-
-Oh and also I use arch btw (with i3 gaps)
 
 https://eroc123.github.io/sus
 
